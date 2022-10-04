@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DJ2211
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in Frontend development.
+- 🌱 I’m currently learning React from freecodecamp.org
 - 💞️ I’m looking to collaborate on frontend development
 - 📫 mail me jaydholakia390@gmail.com
 
