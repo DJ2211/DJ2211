@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DJ2211
-- 👀 I’m interested in Frontend development.
-- 🌱 I’m currently learning React from freecodecamp.org
-- 💞️ I’m looking to collaborate on frontend development
+- 👀 I’m interested in full stack development.
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on full stack development
 - 📫 mail me jaydholakia390@gmail.com
 
 <!---
