@@ -5,8 +5,7 @@
 - 📫 mail me jaydholakia123@gmail.com.
 - Linkidin - www.linkedin.com/in/jay-dholakia-a63103187
 
-**💞️💞️💞️ Special Note to Recruiters from Google, Amazon, Microsoft, Uber, Netflix, Meta, etc, etc 
-Waiting for that one chance in my life:) .**
+**💞️💞️💞️ IF YOU ARE A RECRUITER AND CAME THIS FAR, PLEASE GIVE ME INTERVIEW OPPERTUNITY :) .**
 
 
   
