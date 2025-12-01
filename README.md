@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Jay
-- 👀 I’m interested in full stack development.
-- 🌱 I’m currently trying to learn DSA.
-- 💞️ I’m looking for a job on full stack development
+- 👀 I’m interested in .NET full stack development.
+- 🌱 I’m currently learning DSA.
 - 📫 mail me jaydholakia123@gmail.com.
 - Linkidin - www.linkedin.com/in/jay-dholakia-a63103187
 
-**💞️💞️💞️ IF YOU ARE A RECRUITER AND CAME THIS FAR, PLEASE GIVE ME INTERVIEW OPPERTUNITY :) .**
+**💞️💞️💞️ IF YOU ARE A RECRUITER, PLEASE CONTACT THROUGH LINKIDIN.**
 
 
   
