@@ -4,7 +4,7 @@
 - 📫 mail me jaydholakia123@gmail.com.
 - Linkidin - www.linkedin.com/in/jay-dholakia-a63103187
 
-**💞️💞️💞️ IF YOU ARE A RECRUITER, PLEASE CONTACT THROUGH LINKIDIN.**
+**💞️💞️💞️ IF YOU ARE A RECRUITER, PLEASE CONTACT THROUGH LINKEDIN.**
 
 
   
