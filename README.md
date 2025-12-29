@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jay
-- 👀 I’m interested in .NET full stack development.
+- 👀 I’m interested in Backend Development.
 - 🌱 I’m currently learning DSA.
 - 📫 mail me jaydholakia123@gmail.com.
 - Linkidin - www.linkedin.com/in/jay-dholakia-a63103187
