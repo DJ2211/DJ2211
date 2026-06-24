@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jay
-- 👀 I’m interested in Backend Development.
-- 🌱 I’m currently learning DSA, Backend, System Design, Design patterns, astro Physics.
+- 👀 I’m interested in Backend Development, AI Development, DSA Research, C#, .Net OpenSource Development.
+- 🌱 I’m currently learning DSA, Backend, AI, System Design, Design patterns, Astronomy.
 - 📫 mail me jaydholakia123@gmail.com.
 - Linkidin - www.linkedin.com/in/jay-dholakia-a63103187
 
