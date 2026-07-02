@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jay
-- 👀 I’m interested in Backend Development, AI RnD, DSA, C#, .Net.
+- 👀 I’m interested in Backend Development, AI, DSA, C#, .Net.
 - 🌱 I’m currently learning AI, DSA, Scalable Systems.
 - 📫 mail me jaydholakia123@gmail.com.
 - Linkidin - www.linkedin.com/in/jay-dholakia-a63103187
